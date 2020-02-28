@@ -9,7 +9,7 @@ Python Data Structures
 Download Python
 (https://www.python.org/downloads/)
 
-Python Editor - PyCharm Community for windows
+PyCharm Community for windows
 (https://www.jetbrains.com/pycharm/download/#section=windows)
 
 Python Code Playground 
