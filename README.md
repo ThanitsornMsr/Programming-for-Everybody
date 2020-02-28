@@ -12,5 +12,5 @@ Download Python
 PyCharm Community for windows
 (https://www.jetbrains.com/pycharm/download/#section=windows)
 
-Python Code Playground 
-(https://www.py4e.com/)
+Open Course Materials
+(https://www.py4e.com/materials)
