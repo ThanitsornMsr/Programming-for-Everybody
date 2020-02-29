@@ -9,7 +9,7 @@ Python Data Structures
 Download Python
 (https://www.python.org/downloads/)
 
-PyCharm Community for windows
+PyCharm Community for Windows
 (https://www.jetbrains.com/pycharm/download/#section=windows)
 
 Open Course Materials
